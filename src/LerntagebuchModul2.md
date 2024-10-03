@@ -9,3 +9,11 @@
 - Vererbung bietet zudem eine einfachere Erweitbarkeit.
 - Vererbung ist eine Einbahnstraße, die Superklasseweiß nichts über die Datenfelder ihrer Subklasse.
 
+### 2. Vortag Polymorphie
+
+- Der deklarierte Typ einer Variable ist ihr statischer Typ.
+- Der Typ des Objekt, auf das eine Variable verweist, ist ihr dynamischer Typ.
+- Beim Überschreiben wird die Subklassenmethode aufgerufen, die Version der Superklasse wird überschrieben.
+- Eine polymorphe Variable kann Objekte verschiedener Typen speichern.
+- Bei einem Polymorphenmethodenaufruf hängt die version der Methode von dem dynamischen Typ ab.
+
