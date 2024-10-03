@@ -17,3 +17,11 @@
 - Eine polymorphe Variable kann Objekte verschiedener Typen speichern.
 - Bei einem Polymorphenmethodenaufruf hängt die version der Methode von dem dynamischen Typ ab.
 
+### 3. Vortrag Zentrale Konzepte
+
+Konstitutive Teilkonzepte des Methodenpolymorphismus
+
+- Vererbung
+- Überschreiben von Methoden
+- Ersetzbarkeit
+- Dynamische Bindung
