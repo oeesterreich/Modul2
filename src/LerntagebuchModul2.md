@@ -25,3 +25,13 @@ Konstitutive Teilkonzepte des Methodenpolymorphismus
 - Überschreiben von Methoden
 - Ersetzbarkeit
 - Dynamische Bindung
+
+### 4. Vortrag Vorgangsweise für Polymorphe Codestrukturen
+
+Wie soll man vorgehen, beim Aufbau einer Polymorphen Codebasis?
+
+- Vererbung einsetzen
+- Vollständige Schnittstelle bereistellen in den oberen Klassen
+- Überschreiben von Methoden mit subtypenabhängiger Funktionalität
+- Entkopplung bzw. Ersetzbarkeit anweden (bei der Verwendung der polymorphen Klassenhierarchie)
+- dynamische Bindung nutzen (eingentlicher polymorpher Methodenaufruf)
